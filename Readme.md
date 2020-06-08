@@ -15,3 +15,6 @@ setenv PYTHONPATH /home/kawahara/pixsim/src
 
 Start from works/test.py.
 
+
+## requirements
+- pycuda etc.
